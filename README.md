@@ -1,9 +1,6 @@
-# ai-month-end-close-automation
-An intelligent automation system that orchestrates complex month-end close processes using OpenAI GPT-4o, eliminating manual coordination and saving 3+ hours per close cycle. Features AI email parsing, automated bank reconciliation, and executive report generation across Airtable, Gmail, Google Sheets, and Slack.
-
 # AI-Powered Month-End Close Orchestrator
 
-> An intelligent automation system that orchestrates complex month-end financial close processes using AI, eliminating 70% of manual coordination and saving 3+ hours per close cycle.
+An intelligent automation system that orchestrates complex month-end close processes using OpenAI GPT-4o, eliminating manual coordination and saving 3+ hours per close cycle. Features AI email parsing, automated bank reconciliation, and executive report generation across Airtable, Gmail, Google Sheets, and Slack.
 
 ![Make.com Scenario](screenshots/make-scenario-overview.png)
 
