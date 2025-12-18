@@ -495,7 +495,7 @@ Built as a learning project to demonstrate:
 
 ## 📄 License
 
-MIT License - feel free to use this for your own projects!
+MIT License - feel free to use this for your own projects! 
 
 See [LICENSE](LICENSE) for details.
 
